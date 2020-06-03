@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/Infineon/XMC-for-Arduino.svg?branch=master)](https://travis-ci.org/Infineon/XMC-for-Arduino)
-[![GitHub All Releases](https://img.shields.io/github/downloads/Infineon/XMC-for-Arduino/total?color=Green&logo=GitHub&style=flat-square)](https://github.com/Infineon/XMC-for-Arduino/releases/tag/V1.4.0)
+[![GitHub All Releases](https://img.shields.io/github/downloads/Infineon/XMC-for-Arduino/total?color=Green&logo=GitHub&style=flat-square)](https://somsubhra.com/github-release-stats/?username=Infineon&repository=XMC-for-Arduino)
 [![GitHub issues](https://img.shields.io/github/issues-raw/Infineon/XMC-for-Arduino?color=Green&style=flat-square)](https://github.com/Infineon/XMC-for-Arduino/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Infineon/XMC-for-Arduino?color=Green&style=flat-square)](https://github.com/Infineon/XMC-for-Arduino/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Infineon/XMC-for-Arduino?color=Green&style=flat-square)](https://github.com/Infineon/XMC-for-Arduino/pulls)
