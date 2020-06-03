@@ -6,7 +6,7 @@
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Infineon/XMC-for-Arduino?color=Green&style=flat-square)](https://github.com/Infineon/XMC-for-Arduino/pulls?q=is%3Apr+is%3Aclosed)
 [![GitHub contributors](https://img.shields.io/github/contributors/Infineon/XMC-for-Arduino)](https://github.com/Infineon/XMC-for-Arduino/graphs/contributors)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Infineon/XMC-for-Arduino?style=flat-square)](https://github.com/Infineon/XMC-for-Arduino/releases/tag/V1.4.0)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Infineon/XMC-for-Arduino?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/Infineon/XMC-for-Arduino?style=flat-square)](https://github.com/Infineon/XMC-for-Arduino/commits/master)
 
 # Infineon's XMC Microcontroller Boards for Arduino
 
