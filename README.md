@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/Infineon/XMC-for-Arduino.svg?branch=master)](https://travis-ci.org/Infineon/XMC-for-Arduino)
-![GitHub All Releases](https://img.shields.io/github/downloads/Infineon/XMC-for-Arduino/total?color=Green&logo=GitHub&style=flat-square)
+[![GitHub All Releases](https://img.shields.io/github/downloads/Infineon/XMC-for-Arduino/total?color=Green&logo=GitHub&style=flat-square)](https://github.com/Infineon/XMC-for-Arduino/releases/tag/V1.4.0)
 ![GitHub issues](https://img.shields.io/github/issues-raw/Infineon/XMC-for-Arduino?color=Green&style=flat-square)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Infineon/XMC-for-Arduino?color=Green&style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Infineon/XMC-for-Arduino?color=Green&style=flat-square)
