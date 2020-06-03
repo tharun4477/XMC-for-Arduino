@@ -1,4 +1,13 @@
 [![Build Status](https://travis-ci.org/Infineon/XMC-for-Arduino.svg?branch=master)](https://travis-ci.org/Infineon/XMC-for-Arduino)
+![GitHub All Releases](https://img.shields.io/github/downloads/Infineon/XMC-for-Arduino/total?color=Green&logo=GitHub&style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues-raw/Infineon/XMC-for-Arduino?color=Green&style=flat-square)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Infineon/XMC-for-Arduino?color=Green&style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Infineon/XMC-for-Arduino?color=Green&style=flat-square)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Infineon/XMC-for-Arduino?color=Green&style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/Infineon/XMC-for-Arduino)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Infineon/XMC-for-Arduino?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Infineon/XMC-for-Arduino?style=flat-square)
+
 # Infineon's XMC Microcontroller Boards for Arduino
 
 This repository integrates [Infineon's](https://www.infineon.com/) XMC microcontrollers into the [Arduino IDE](https://www.arduino.cc/en/main/software) and [PlatformIO IDE](https://platformio.org/platformio-ide?utm_source=github&utm_medium=xmc-for-arduino).
